@@ -1,0 +1,31 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    margin: 1em;
+    color: dimgray
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 3.5em;
+}
+
+h2 {
+    color: gray;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.top-column {
+    padding-bottom: 2.5em;
+    margin-bottom: 1.5em;
+    border-bottom: .3em solid lightgray;
+}
+
+.featured-work {
+    padding: .6em;
+    margin: .3em;
+    font-size:.75em;
+}
